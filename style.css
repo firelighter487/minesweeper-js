@@ -1,0 +1,52 @@
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+  color: white;
+  text-align: center;
+  height: 200%;
+  font-size: 25px;
+  margin: auto;
+  justify-content: center;
+}
+.container {
+  justify-content: center;
+  color: black;
+  margin-top: 50px;
+  display: grid;
+  gap: 3px;
+}
+.box {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  color: black;
+  height: 20px;
+  font-size: 15px !important;
+  background-color: #a6a6a6;
+}
+#minesleft {
+  color: black;
+}
+
+#safegreentotal {
+  color: black;
+}
+
+.mine {
+  font-size: small;
+  color: black;
+}
+
+.safe {
+  font-size: small;
+  color: black;
+}
+
+.safegreen {
+  font-size: small;
+  background-color: white;
+}
+
+.mineexplode {
+  background-color: white !important;
+}
