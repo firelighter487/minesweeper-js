@@ -1,0 +1,3 @@
+# minesweeper-js
+
+GARBAGE MINESWEEPER
